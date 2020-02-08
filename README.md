@@ -14,7 +14,7 @@ By executing this program you will see that it has randomly generated from a poo
 * PHONE
 * ID
 
-all this informations are generated from french name and french location
+all this informations are generated from french name and french location.
 
 ## How to run it
 
@@ -28,7 +28,7 @@ then after go to the clone repository and compile with the following command:
 ```
 $ make
 ```
-to execute this program you will nedd to pass 1 for a male name or 2 for a female name as single arguments for the program
+to execute this program you will nedd to pass 1 for a male name or 2 for a female name as a single argument for the program.
 to run it use this command below:
 
 (ARG1 will be 1 or 2)
