@@ -4,7 +4,7 @@ This programm is a simple ID generator created in C
 
 ## What can it do ?
 
-By executing this program you will see that it has randomly generated from a pool of data different informations :
+By executing this program you will see that it has randomly generated from a pool of data, different informations :
 * LAST NAME
 * FIRST NAME
 * AGE
@@ -14,7 +14,7 @@ By executing this program you will see that it has randomly generated from a poo
 * PHONE
 * ID
 
-all this informations are generate from french name and french location
+all this informations are generated from french name and french location
 
 ## How to run it
 
