@@ -43,7 +43,7 @@ $ make fclean
 or
 
 ```
-$ make fclean
+$ make clean
 ```
 
 Thank you for reanding, I hope that you will like this bye !
